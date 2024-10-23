@@ -17,6 +17,7 @@
     flex-direction: column;
     gap: 20px;
     box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.2);
+    color: #fff;
 }
 
 .login-form h2 {
@@ -69,4 +70,7 @@
 
 .login-form h5:hover {
     color: #fff;
+}
+.is-valid{
+    color: red;
 }
